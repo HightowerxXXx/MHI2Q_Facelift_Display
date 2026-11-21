@@ -1,0 +1,6 @@
+# never commit firmware dumps or patched binaries
+*.img
+*.bin
+*.canim
+dio_manager*
+__pycache__/
